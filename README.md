@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @M3TAPOD
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python, Machine Learning & Bayesian Theory.
+- 📫 How to reach me anton.sjogren@gmail.com
